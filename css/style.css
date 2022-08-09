@@ -280,7 +280,7 @@ margin-bottom: 50px;
     .knife {
         display: none;
     }
-
+}
 @media (max-width: 767px) {
     .knife {
         display: none;
